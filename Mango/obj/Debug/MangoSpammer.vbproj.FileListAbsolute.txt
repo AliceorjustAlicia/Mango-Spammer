@@ -1,0 +1,14 @@
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\bin\Debug\Mango Spammer.exe.config
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\bin\Debug\Mango Spammer.exe
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\bin\Debug\Mango Spammer.pdb
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\bin\Debug\MetroFramework.dll
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\obj\Debug\MangoSpammer.vbprojAssemblyReference.cache
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\obj\Debug\MangoSpammer.Main.resources
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\obj\Debug\MangoSpammer.Resources.resources
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\obj\Debug\MangoSpammer.vbproj.GenerateResource.cache
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\obj\Debug\MangoSpammer.vbproj.CoreCompileInputs.cache
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\obj\Debug\MangoSpammer.vbproj.CopyComplete
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\obj\Debug\Mango Spammer.exe
+C:\Users\Alice\Desktop\Mango-Spammer-master\Mango\obj\Debug\Mango Spammer.pdb
