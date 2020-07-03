@@ -1,3 +1,7 @@
 <p align="center">
-  <img width="800" height="447" src="https://i.imgur.com/B9BXEfn.png">
+  <img src="https://i.imgur.com/Mvy15T2.png">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dStFKmz.png">
 </p>
